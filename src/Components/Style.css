@@ -1,0 +1,24 @@
+.menu{
+    
+    float: right;
+    margin: 10px;
+   
+}
+
+.content{
+    margin-top: 50px;
+    padding: 10px;
+    border-style: solid;
+    margin: 10px;
+    color: seagreen;
+    background: beige;
+}
+
+.err{
+    
+    color:red;
+}
+.btn{
+    padding: 2px 30px 2px 30px;
+    margin: 10px
+}
